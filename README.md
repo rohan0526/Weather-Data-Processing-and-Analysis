@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-3.3.0-orange.svg)](https://spark.apache.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A comprehensive **Big Data Analytics project** that processes historical weather data using **PySpark** and visualizes climate patterns, temperature trends, and seasonal analysis through an interactive **Streamlit dashboard**.
 
@@ -603,18 +602,7 @@ flake8 src/
 
 ---
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ---
 
@@ -645,4 +633,4 @@ If you found this project helpful, please consider giving it a star! ⭐
 
 **Built with ❤️ using Python, PySpark, and Streamlit**
 
-Last Updated: October 31, 2025
+
